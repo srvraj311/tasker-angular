@@ -1,4 +1,4 @@
-<form class="add-form" (ngSubmit)="saveTask()">
+<form class="add-form" *ngIf="toggleAddTask" (ngSubmit)="saveTask()">
   <div class="form-control">
     <label for="text">Task</label>
     <input
