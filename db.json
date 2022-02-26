@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Join at Club",
+      "day": "May 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "May 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Call and book pizza",
+      "day": "May 8th at 03:20pm",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Book a movie ticket.",
+      "day": "Feb 27 11:30am",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Catch a Train",
+      "day": "27th Feb 11:30am",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
